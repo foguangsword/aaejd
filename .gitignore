@@ -1,0 +1,5 @@
+# PDF files
+*.pdf
+
+# Temporary text files
+temp_*.txt
